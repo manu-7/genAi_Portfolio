@@ -1,0 +1,88 @@
+Act as a senior portfolio designer and brand strategist.
+Create a modern, clean, AI-centric personal portfolio website for Manu Singh, targeted subtly toward Generative AI Engineer / AI Developer / AI Research Intern / Full-Stack AI roles.
+
+Use the following data from my resume to craft all content:
+
+Skills: Python, Django, DRF, FastAPI, LangChain, Streamlit, Vector DBs, RAG, Embeddings, AI Assistants, UI/UX, C++, SQL, GitHub, Figma.
+
+Projects:
+
+CampusMate – AI-Powered RAG System (LangChain, FastAPI, Pinecone, Groq, Streamlit).
+
+Eco Park Ticket Booking System (Django, Razorpay API, QR-based verification).
+
+Django Task Queue System (Celery, DRF, async tasks).
+
+Certifications: Oracle Generative AI Professional, Django Essentials.
+
+Experience: UI/UX Design Intern at INA Internet Pvt. Ltd.
+
+Achievements: CodeQuezt Top 300, 300+ DSA problems, UI/UX finalist, leadership experience.
+
+OUTPUT REQUIREMENTS
+1. Provide Complete Website Content
+
+Write all portfolio sections with modern, concise, employer-friendly wording:
+
+Hero Section: bold AI-focused headline + subheading + short bio.
+
+About Section: strong positioning as a GenAI + Backend + RAG engineer.
+
+Skills Section: grouped as AI technologies, Backend frameworks, Dev tools.
+
+Projects Section: rewrite each project in modern, impact-driven style for GenAI recruiters.
+
+Experience Section: summarize UI/UX internship in a technical, engineering-aligned way.
+
+Certifications + Achievements Section: highlight credibility.
+
+Contact Section: short and professional.
+
+Make the tone modern, confident, technical.
+
+2. Provide Visual/UI Recommendations
+
+Give a ready-to-build UI layout including:
+
+Color palette (dark + neon AI theme or light minimal).
+
+Typography pairings.
+
+Section spacing & grid layout.
+
+Micro-interactions & animations (GSAP / Framer Motion style).
+
+Hero section shapes, gradients, AI-style glowing elements.
+
+Project cards layout (3D hover, glassmorphism, modern chip tags).
+
+Icons & illustrations style (AI, neural networks, code themes).
+
+3. Provide Optional Code Templates
+
+Generate:
+
+HTML + CSS structure, or
+
+React/Next.js component structure,
+following a clean, modern design system.
+
+4. The portfolio must subtly pitch me for AI-focused roles
+
+Reflect:
+
+GenAI engineering
+
+RAG systems
+
+Vector DBs
+
+Backend APIs for LLM applications
+
+Production-ready AI tooling
+
+UI/UX understanding
+
+5. Produce a final export-ready output
+
+Deliver everything cleanly in sections so I can directly copy into my portfolio project.
